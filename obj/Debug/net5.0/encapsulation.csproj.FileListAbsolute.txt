@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\encapsulation\bin\Debug\net5.0\encapsulation.exe
+D:\education\PatikaPratikler\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+D:\education\PatikaPratikler\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+D:\education\PatikaPratikler\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+D:\education\PatikaPratikler\encapsulation\bin\Debug\net5.0\encapsulation.dll
+D:\education\PatikaPratikler\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+D:\education\PatikaPratikler\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+D:\education\PatikaPratikler\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\encapsulation\obj\Debug\net5.0\encapsulation.dll
+D:\education\PatikaPratikler\encapsulation\obj\Debug\net5.0\refint\encapsulation.dll
+D:\education\PatikaPratikler\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+D:\education\PatikaPratikler\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
+D:\education\PatikaPratikler\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
